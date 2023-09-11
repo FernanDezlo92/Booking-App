@@ -1,0 +1,34 @@
+{
+   "hotels": [
+      {
+         "description": "Un hotel acogedor en el corazón de la ciudad.",
+         "id": 1,
+         "image": "/img/hotel1.jpg",
+         "name": "Hotel Uno"
+      },
+      {
+         "description": "Un refugio tranquilo lejos del bullicio de la ciudad.",
+         "id": 2,
+         "image": "/img/hotel2.jpg",
+         "name": "Hotel Dos"
+      },
+      {
+         "description": "Un destino de lujo para los amantes del confort.",
+         "id": 3,
+         "image": "/img/hotel3.jpg",
+         "name": "Hotel Tres"
+      },
+      {
+         "description": "Un lugar perfecto para relajarse y disfrutar de la naturaleza.",
+         "id": 4,
+         "image": "/img/hotel4.jpg",
+         "name": "Hotel Cuatro"
+      },
+      {
+         "description": "Un hotel moderno con vistas espectaculares al mar.",
+         "id": 5,
+         "image": "/img/hotel5.jpg",
+         "name": "Hotel Cinco"
+      }
+   ]
+}
