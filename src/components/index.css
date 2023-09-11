@@ -5,13 +5,6 @@ body {
     background: #f1f1f1;
   }
 
-@media  (max-width: 768px) {
-  .slider{
-    slidesToShow:2;
-  }
-}
-
-
   .TituloApp{
     background-color: aqua;
     text-align: center;
