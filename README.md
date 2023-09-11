@@ -13,4 +13,4 @@ Currently, two official plugins are available:
 
 # Para visualizar:
 
--npm run dev
+- npm run dev
