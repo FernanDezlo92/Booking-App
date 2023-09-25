@@ -11,6 +11,7 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
+// Fetch al 3001 donde esta el server (La bbdd del server esta en el archivo db.json)
 const fetchHotels = async () => {
   const response = await fetch("http://localhost:3001/hotels");
   if (!response.ok) {
@@ -59,7 +60,7 @@ const HotelList = () => {
     slidesToScroll: getSlidesToScroll(),
     responsive: [
       {
-        breakpoint: 768, // Puedes ajustar este valor según tus necesidades
+        breakpoint: 768,
         settings: {
           slidesToShow: 2,
           slidesToScroll: 2,
